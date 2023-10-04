@@ -1,2 +1,2 @@
 # Share-Knowledge2023
-Hacktoberfest Accepted 
+Hacktoberfest Accepted yes
